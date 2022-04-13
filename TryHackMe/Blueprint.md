@@ -1,5 +1,5 @@
 # Blueprint
-First I started Nmap and scanned the target like I always do and discovered the open port 8080 for tcp.
+First I started Nmap and scanned the target like I always do and discovered an open port 8080 for tcp.
 <br>
 ```
 nmap -sV -sC IP
@@ -47,7 +47,7 @@ The site (ip:8080) is using oscommerce-2.3.4, so I searched for exploits.
 
 <img src="https://i.imgur.com/Yre04Jh.png"/>
 
-After I found an exploit, I set the configs and ran it
+After I found an exploit, I set the configs and executed it
 
 <img src="https://i.imgur.com/Mbi7Lnh.png"/>
 
