@@ -1,4 +1,4 @@
-#Blueprint
+# Blueprint
 First I started Nmap and scanned the target like I always do and discovered the open port 8080 for tcp.
 <br>
 ```
